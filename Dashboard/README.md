@@ -3,7 +3,7 @@ An interactive Excel dashboard built with Pivot Tables, Pivot Charts, and Slicer
 This is a hands-on learning project created to practice Microsoft Excel, data analysis, and dashboard design.
 
 Dashboard Preview
-
+![Executive Dashboard](https://github.com/officiallyCoder/Excel_Sales_Dashboards/blob/2d16422819c007ecc4e6ac0231be3d14bdf59d73/Dashboard-1/Screenshot%202026-10-30%20110819.png)
 
 To display the preview on GitHub, upload the dashboard screenshot to your repository in an images folder and name it dashboard.png.
 Project Objective
