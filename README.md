@@ -6,7 +6,7 @@ An interactive Excel dashboard built with **Pivot Tables, Pivot Charts, and Slic
 
 ## Dashboard Preview
 
-![Executive Summary & Profitability Dashboard](images/dashboard.png)
+![Executive Summary & Profitability Dashboard](https://github.com/officiallyCoder/Excel_Sales_Dashboards/blob/2d16422819c007ecc4e6ac0231be3d14bdf59d73/Dashboard-1/Screenshot%202026-10-30%20110819.png)
 
 *To display the preview on GitHub, upload the dashboard screenshot to your repository in an `images` folder and name it `dashboard.png`.*
 
